@@ -1,0 +1,4 @@
+---
+- capabilities:
+    - cut 1
+---

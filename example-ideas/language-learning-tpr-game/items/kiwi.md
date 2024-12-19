@@ -1,0 +1,4 @@
+---
+- affordances:
+    - cut 2 kiwi-cut
+---
